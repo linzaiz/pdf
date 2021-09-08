@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1525
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "pdf", "pdf\pdf.pyproj", "{7D5101D6-8E75-4249-9518-043B53E529E8}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "plan_pdf_2_excel1", "plan_pdf_2_excel1\plan_pdf_2_excel1.pyproj", "{F00D619A-5B65-473F-BE19-3A6CC992C24F}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "plan_pdf_camelot1", "plan_pdf_camelot1\plan_pdf_camelot1.pyproj", "{4E9E3D75-DA43-41F2-A758-74554CF887B8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,8 +13,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7D5101D6-8E75-4249-9518-043B53E529E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7D5101D6-8E75-4249-9518-043B53E529E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F00D619A-5B65-473F-BE19-3A6CC992C24F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F00D619A-5B65-473F-BE19-3A6CC992C24F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E9E3D75-DA43-41F2-A758-74554CF887B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E9E3D75-DA43-41F2-A758-74554CF887B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
